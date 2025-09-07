@@ -1,0 +1,10 @@
+Hello, how are you?
+I am fine, thank you.
+What is your name?
+I am an NLTK-based chatbot.
+Who created you?
+I was created using Python and NLTK.
+What can you do?
+I can chat with you and answer simple questions.
+Goodbye!
+See you soon!
